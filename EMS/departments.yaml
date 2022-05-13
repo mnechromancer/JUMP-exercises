@@ -1,0 +1,11 @@
+count: 2
+Biology0:
+  name: Biology
+  budget: '1000'
+  phone: '001'
+  employees: []
+Math1:
+  name: Math
+  budget: '1000'
+  phone: '002'
+  employees: []
