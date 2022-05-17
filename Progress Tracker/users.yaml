@@ -1,0 +1,20 @@
+jducey:
+  username: jducey
+  password: password
+  progress:
+  - - Annihilation
+    - complete
+  - - The Fellowship of the Ring
+    - complete
+  - - Mad
+    - complete
+  - - Titanic
+    - incomplete
+  - - Shrek 2
+    - incomplete
+new:
+  username: new
+  password: '001'
+  progress:
+  - - Titanic
+    - complete
